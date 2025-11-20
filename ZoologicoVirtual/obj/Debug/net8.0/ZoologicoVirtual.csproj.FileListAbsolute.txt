@@ -1,0 +1,14 @@
+/home/galapago/CODIGO_LENGUAJE_IV/ZoologicoVirtual/ZoologicoVirtual/obj/Debug/net8.0/ZoologicoVirtual.GeneratedMSBuildEditorConfig.editorconfig
+/home/galapago/CODIGO_LENGUAJE_IV/ZoologicoVirtual/ZoologicoVirtual/obj/Debug/net8.0/ZoologicoVirtual.AssemblyInfoInputs.cache
+/home/galapago/CODIGO_LENGUAJE_IV/ZoologicoVirtual/ZoologicoVirtual/obj/Debug/net8.0/ZoologicoVirtual.AssemblyInfo.cs
+/home/galapago/CODIGO_LENGUAJE_IV/ZoologicoVirtual/ZoologicoVirtual/obj/Debug/net8.0/ZoologicoVirtual.csproj.CoreCompileInputs.cache
+/home/galapago/CODIGO_LENGUAJE_IV/ZoologicoVirtual/ZoologicoVirtual/bin/Debug/net8.0/ZoologicoVirtual
+/home/galapago/CODIGO_LENGUAJE_IV/ZoologicoVirtual/ZoologicoVirtual/bin/Debug/net8.0/ZoologicoVirtual.deps.json
+/home/galapago/CODIGO_LENGUAJE_IV/ZoologicoVirtual/ZoologicoVirtual/bin/Debug/net8.0/ZoologicoVirtual.runtimeconfig.json
+/home/galapago/CODIGO_LENGUAJE_IV/ZoologicoVirtual/ZoologicoVirtual/bin/Debug/net8.0/ZoologicoVirtual.dll
+/home/galapago/CODIGO_LENGUAJE_IV/ZoologicoVirtual/ZoologicoVirtual/bin/Debug/net8.0/ZoologicoVirtual.pdb
+/home/galapago/CODIGO_LENGUAJE_IV/ZoologicoVirtual/ZoologicoVirtual/obj/Debug/net8.0/ZoologicoVirtual.dll
+/home/galapago/CODIGO_LENGUAJE_IV/ZoologicoVirtual/ZoologicoVirtual/obj/Debug/net8.0/refint/ZoologicoVirtual.dll
+/home/galapago/CODIGO_LENGUAJE_IV/ZoologicoVirtual/ZoologicoVirtual/obj/Debug/net8.0/ZoologicoVirtual.pdb
+/home/galapago/CODIGO_LENGUAJE_IV/ZoologicoVirtual/ZoologicoVirtual/obj/Debug/net8.0/ZoologicoVirtual.genruntimeconfig.cache
+/home/galapago/CODIGO_LENGUAJE_IV/ZoologicoVirtual/ZoologicoVirtual/obj/Debug/net8.0/ref/ZoologicoVirtual.dll
